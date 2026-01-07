@@ -3,28 +3,27 @@ remote_theme: daviddarnes/alembic@main
 
 # File excludes
 exclude:
-- README.md
-- Gemfile
-- Gemfile.lock
+  - README.md
+  - Gemfile
+  - Gemfile.lock
 
 # Set plugins
 plugins:
-- jekyll-sitemap
-- jekyll-mentions
-- jekyll-seo-tag
-- jekyll-redirect-from
-- jekyll-commonmark
-- jekyll-include-cache
-- jemoji
-- jekyll-remote-theme
+  - jekyll-sitemap
+  - jekyll-mentions
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-commonmark
+  - jekyll-include-cache
+  - jemoji
+  - jekyll-remote-theme
 
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'Fred Dickinson '
+title: 'Fred Dickinson'
 description: ''
 permalink: pretty
-logo: """
 
 # Pagination
 # paginate: 5
@@ -32,19 +31,19 @@ logo: """
 
 # Header nav
 navigation_header:
-- title: Home
-  url: /
-- title: Tutoring
-  url: /tutoring/
-- title: Maths
-  url: /maths
-- title: Sport
-  url: /sport
+  - title: Home
+    url: /
+  - title: Tutoring
+    url: /tutoring/
+  - title: Maths
+    url: /maths/
+  - title: Sport
+    url: /sport/
 
 # Footer nav
 navigation_footer:
-- title: Top
-  url: "#top"
+  - title: Top
+    url: "#top"
 
 # Collection settings
 defaults:
