@@ -1,12 +1,13 @@
 ---
 title: Tutoring Resources
+aside_search: true
 ---
 
 **Mathematics tutoring.** I have been consistently tutoring GCSE and A-level mathematics since 2019, also with experience in younger people's maths education (ages 7-11), AP statistics, and first year university content.
 
 Please contact me for questions, marking, corrections, etc.
 
-*WIP - material is still being added to this page.*
+{% include site-search.html %}
 
 ## GCSE Material
 

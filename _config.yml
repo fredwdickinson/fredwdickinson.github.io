@@ -24,6 +24,13 @@ baseurl: ''
 title: 'Fred Dickinson'
 description: ''
 permalink: pretty
+encoding: utf-8
+lang: en-GB
+title: "Fred Dickinson"
+# logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
+description: "Empty description."
+repo: "https://github.com/fredwdickinson/fredwdickinson.github.io"
+email: "fredsterdickinson@gmail.com"
 
 # Pagination
 # paginate: 5
