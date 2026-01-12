@@ -1,6 +1,6 @@
 ---
 title: Tutoring Resources
-aisde: true
+aside: true
 aside_search: true
 ---
 
