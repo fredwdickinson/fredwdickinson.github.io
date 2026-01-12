@@ -34,11 +34,13 @@ navigation_header:
   - title: Home
     url: /
   - title: Tutoring
-    url: /tutoring/
+    url: /pages/tutoring/
   - title: Maths
-    url: /maths/
+    url: /pages/maths/
   - title: Sport
-    url: /sport/
+    url: /pages/sport/
+  - title: Contact
+    url: /pages/contact/
 
 # Footer nav
 navigation_footer:

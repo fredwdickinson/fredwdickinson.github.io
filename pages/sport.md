@@ -1,5 +1,5 @@
 ---
-title: Sport page
+title: Sport
 ---
 
 Page for sports related material.
