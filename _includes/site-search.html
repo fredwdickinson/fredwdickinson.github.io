@@ -1,0 +1,52 @@
+<div class="form form--search">
+  <form>
+    <label class="label" for="search">Search term:</label>
+    <input class="input" id="search" type="search" placeholder="e.g. the discriminant" autocomplete="off" />
+
+    <ul class="list list--results" id="list">
+        <!-- results go here -->
+    </ul>
+  </form>
+</div>
+
+<script type = "text/javascript">
+  const field = document.querySelector('#search');
+  const resultsList = document.querySelector('#list');
+  const content = document.querySelector('.content');
+
+  if (!content) return;
+
+  const originalHTML = content.innerHTML;
+
+  field.addEventListener('input', () => {
+    const query = field.value.trim();
+
+    if (!query) {
+      content.innerHTML = originalHTML;
+      resultsList.innerHTML = '';
+      return;
+    }
+
+    const regex = new RegExp(`(${query})`, 'gi');
+    const matches = originalHTML.match(regex);
+
+    if (!matches) {
+      content.innerHTML = originalHTML;
+      resultsList.innerHTML = `<li>No matches found</li>`;
+      return;
+    }
+
+    content.innerHTML = originalHTML.replace(
+      regex,
+      '<mark>$1</mark>'
+    );
+
+    resultsList.innerHTML = `<li>${matches.length} match(es)</li>`;
+  });
+
+  field.addEventListener('keydown', event => {
+    if (event.key === 'Enter') event.preventDefault();
+  });
+</script>
+
+<noscript>Please enable JavaScript to use the search form.</noscript>
