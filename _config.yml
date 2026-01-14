@@ -28,7 +28,7 @@ encoding: utf-8
 lang: en-GB
 title: "Fred Dickinson"
 # logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Empty description."
+description: ""
 repo: "https://github.com/fredwdickinson/fredwdickinson.github.io"
 email: "fredsterdickinson@gmail.com"
 
