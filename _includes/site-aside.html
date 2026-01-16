@@ -3,12 +3,7 @@
   <section class = "section  section--description">
     <h3>Search</h3>
     {% include site-search.html %}
-  </section>
-
-  {% elsif page.aside %}
-    <section class="section section--custom-aside">
-      {{ page.aside | markdownify }}
-    </section>
+  </section>  
 
   {% elsif page.layout == "post" %}
     <section class="section  section--related-posts">
@@ -20,6 +15,13 @@
       <p>{{ site.description }}</p>
       {% include nav-social.html %}
     </section>
+    
+  {% else %}
+    <section class="section section--custom-aside">
+      <!-- Include HTML in the aside tags for each page.-->
+      {{ page.aside_content | markdownify }}
+    </section>
 
   {% endif %}
 </aside>
+

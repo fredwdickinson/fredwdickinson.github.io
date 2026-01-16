@@ -1,9 +1,16 @@
 ---
 title: Mathematics
-aside: |
+aside: true
+aside_content: |
+  <br>
   <figure>
-    <img src = "/assets/images/simple_pendulum.pdf" alt = "Simple pendulum phase portrait.">
-    <figcaption>Caption goes here for the simple pendulum.</figcaption>
+    <img src="/assets/images/simple_pendulum.jpg" alt="Simple pendulum phase portrait.">
+  </figure>
+  <figure>
+    <img src="/assets/images/simple_pendulum.jpg" alt="Simple pendulum phase portrait.">
+  </figure>
+  <figure>
+    <img src="/assets/images/simple_pendulum.jpg" alt="Simple pendulum phase portrait.">
   </figure>
 ---
 

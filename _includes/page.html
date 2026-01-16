@@ -14,8 +14,13 @@ layout: default
 
   </article>
 
-  {% if page.aside %}{% include site-aside.html %}{% endif %}
+  <p>ASIDE RAW: {{ page.aside | inspect }}</p>
 
+
+  {% if page.aside %}
+    {% include site-aside.html %}
+  {% endif %}
+  
 </main>
 
 {% include site-footer.html %}

@@ -5,3 +5,36 @@ styles: true
 
 $linkColour: #f58311 !default;
 @import "alembic";
+
+/* Custom overrides. */
+.content {
+  @include breakpoint(break-1) {
+    // Add to 100 with the aside styling rules.
+    width: 57%;
+  }
+}
+
+.aside {
+  @include breakpoint(break-1) {
+    max-width: 35%;
+    margin-left: 8%;
+    opacity: 1;
+    // Previously 'sticky', now scrolls with page.
+    .section{
+        position: static;
+        top: 0;
+    }
+  }
+}
+
+.aside img {
+  width: 120%; 
+  max-width: none;
+}
+
+.container {
+  margin-left: 8%;
+}
+
+
+
