@@ -1,6 +1,7 @@
 ---
 title: Fred Dickinson
 feature_image: "/assets/images/slovenija_2.jpg"
+aside = true
 ---
 
 Hello! I am a postgraduate student in the *Computational Applied Mathematics* programme at the University of Edinburgh, having also completed an undergraduate mathematics degree here between 2021 and 2025.
