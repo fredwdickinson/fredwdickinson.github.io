@@ -25,4 +25,4 @@ $\sum_{n=1}^\infty \frac{1}{n^2}$, or in terms of the zeta function, $\zeta(2)$.
 
 One [seminar by Professor Bengt Fornberg](https://www.newton.ac.uk/seminar/40010/) (University of Colorado Boulder) inspired me [to create this poster](https://github.com/fredwdickinson/rscam-poster/) presented to peers and faculty members as part of the MSc research skills course.
 
-**4. Meta-mathematical problems concerning the creation of 'nice cubics'** were a highlight of fourth year. [This repository](https://github.com/fredwdickinson/creating-nice-cubics) explores what 'nice cubics' can mean, along with some number theory and code examples for how to generate them.
+**4. Meta-mathematical problems concerning the creation of 'nice cubics'** were a highlight of fourth year. [This repository](https://github.com/fredwdickinson/creating-nice-cubics) explores what 'nice cubics' can be, along with some number theory and code examples for how to generate them.

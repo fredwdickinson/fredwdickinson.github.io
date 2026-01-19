@@ -9,44 +9,59 @@
   </form>
 </div>
 
-<script type = "text/javascript">
-  const field = document.querySelector('#search');
-  const resultsList = document.querySelector('#list');
-  const content = document.querySelector('.content');
+<script>
+  (function () {
+    const field = document.querySelector('#search');
+    const resultsList = document.querySelector('#list');
+    const content = document.querySelector('.content');
+    console.log(content);
 
-  if (!content) return;
+    // Extract list items only (not introduction, for example)
+    const list_items = Array.from(content.querySelectorAll('li a'));
+    console.log(list_items);
 
-  const originalHTML = content.innerHTML;
+    field.addEventListener('input', () => {
+      // Search term.
+      const query = field.value.trim().toLowerCase();
+      if (!query) return;
 
-  field.addEventListener('input', () => {
-    const query = field.value.trim();
-
-    if (!query) {
-      content.innerHTML = originalHTML;
       resultsList.innerHTML = '';
-      return;
-    }
+      let count = 0;
 
-    const regex = new RegExp(`(${query})`, 'gi');
-    const matches = originalHTML.match(regex);
+      list_items.forEach(link => {
+        // Extract the text and the hyperlink from the list items.
+        const text = link.textContent;
+        const href = link.getAttribute('href');
+        console.log(href);
 
-    if (!matches) {
-      content.innerHTML = originalHTML;
-      resultsList.innerHTML = `<li>No matches found</li>`;
-      return;
-    }
+        // Relying on .includes() is good enough.
+        if (text.toLowerCase().includes(query)) {
+          // Create new list item with the same hyperlink.
+          const li = document.createElement('li');
+          const a = document.createElement('a');
 
-    content.innerHTML = originalHTML.replace(
-      regex,
-      '<mark>$1</mark>'
-    );
+          a.href = href;
+          a.innerHTML = text.replace(
+            new RegExp(`(${query})`, 'gi'),
+            '$1'
+          );
 
-    resultsList.innerHTML = `<li>${matches.length} match(es)</li>`;
-  });
+          li.appendChild(a);
+          resultsList.appendChild(li);
+          count += 1;
+        }
+      });
 
-  field.addEventListener('keydown', event => {
-    if (event.key === 'Enter') event.preventDefault();
-  });
+      if (count === 0) {
+        resultsList.innerHTML = '<li>No matches found.</li>';
+      }
+    });
+
+    field.addEventListener('keydown', e => {
+      // Prevents enter from submitting a search and reloading the page.
+      if (e.key === 'Enter') e.preventDefault();
+    });
+  })();
 </script>
 
 <noscript>Please enable JavaScript to use the search form.</noscript>
