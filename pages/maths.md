@@ -5,12 +5,7 @@ aside_content: |
   <br>
   <figure>
     <img src="/assets/images/simple_pendulum.jpg" alt="Simple pendulum phase portrait.">
-  </figure>
-  <figure>
-    <img src="/assets/images/simple_pendulum.jpg" alt="Simple pendulum phase portrait.">
-  </figure>
-  <figure>
-    <img src="/assets/images/simple_pendulum.jpg" alt="Simple pendulum phase portrait.">
+    <figcaption>Applied dynamical systems, January 2026.</figcaption>
   </figure>
 ---
 

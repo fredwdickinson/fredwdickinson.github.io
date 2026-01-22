@@ -8,7 +8,7 @@ aside_search: true
 
 Please contact me for questions, marking, corrections, etc.
 
-## GCSE Material
+### GCSE Material
 
 #### Exercise Booklets
 
@@ -26,7 +26,7 @@ Please contact me for questions, marking, corrections, etc.
 
 --- 
 
-## A-Level Material
+### A-Level Material
 
 #### Exercise Booklets
 
