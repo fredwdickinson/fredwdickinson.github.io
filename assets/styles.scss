@@ -3,15 +3,17 @@ title: false
 styles: true
 ---
 
-$linkColour: #f58311 !default;
+$linkColour: #CF6A04 !default;
 @import "alembic";
 
 /* Custom overrides. */
+
 .content {
   @include breakpoint(break-1) {
     // Add to 100 with the aside styling rules.
     width: 57%;
   }
+  font-size: 18px;
 }
 
 .aside {
@@ -25,6 +27,7 @@ $linkColour: #f58311 !default;
         top: 0;
     }
   }
+  font-size: 18px;
 }
 
 .aside img {

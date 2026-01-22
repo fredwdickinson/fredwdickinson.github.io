@@ -13,7 +13,5 @@ Hello! I am a postgraduate student in the *Computational Applied Mathematics* pr
 
 **Sport.** I was president of the [Edinburgh University table tennis club](https://www.eusu.ed.ac.uk/organisation/tabletennis/) between 2023-24 and 2024-25, and have been involved with the club and the [Edinburgh & Lothian table tennis league (ELTTL)](https://elttl.interactive.co.uk/) since starting University. In 2024 I was invited to be part of the Sport Union's finance committee, and in 2025 was [awarded colours](https://www.eusu.ed.ac.uk/awards/pastawardwinners/colours/) for my roles in Edinburgh sport.
 
-Other sports I enjoy are squash, badminton, and running (slowly).
-
 
 

@@ -22,6 +22,7 @@ Please contact me for questions, marking, corrections, etc.
 2. [An introduction to completing the square.](/assets/files/tutoring/gcse/intro_to_completing_the_square.pdf)
 3. [Where does the quadratic formula come from?](/assets/files/tutoring/gcse/completing_the_square_and_quadratic_formula.pdf)
 4. [Types of averages.](/assets/files/tutoring/types_of_average.pdf)
+5. [On the area of a triangle being $1/2 ab \sin(C)$.](/assets/files/tutoring/gcse/half-absinC.pdf)
 
 --- 
 
