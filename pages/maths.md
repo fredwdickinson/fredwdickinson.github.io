@@ -9,7 +9,7 @@ aside_content: |
   </figure>
 ---
 
-My undergraduate mathematics experience was intentionally and wonderfully varied, with courses in my master's far more streamlined. Here is a collection of some of my favourite pieces of work across a range of topics.
+My undergraduate mathematics experience was wonderfully varied, with courses in my master's far more streamlined. Here is a collection of some of my favourite pieces of work across a range of topics.
 
 **1. The Basel problem** concerns the evaluation of the infinite sum of squared reciprocals
 $\sum_{n=1}^\infty \frac{1}{n^2}$, or in terms of the zeta function, $\zeta(2)$. It's an interesting problem because its result, $\pi^2/6$, is surprisingly tidy, but also because there are so many interesting and vastly different proofs. My notes on the problem [can be found here.](/assets/files/maths/bsc/the_basel_problem.pdf)

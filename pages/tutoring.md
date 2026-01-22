@@ -40,3 +40,4 @@ Please contact me for questions, marking, corrections, etc.
 3. [Fundamentals in probability (1).](/assets/files/tutoring/a_level/probability_fundamentals_1.pdf)
 4. [Fundamentals in probability (2).](/assets/files/tutoring/a_level/probability_fundamentals_2.pdf)
 5. [The discriminant.](/assets/files/tutoring/a_level/the_discriminant.pdf)
+6. [Hidden quadratics.](/assets/files/tutoring/a_level/hidden_quadratics.pdf)

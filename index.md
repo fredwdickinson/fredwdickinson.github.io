@@ -18,7 +18,6 @@ aside_content: |
     <figcaption>Kiloran Bay (Colonsay), July 2025.</figcaption>
   </figure>
 ---
----
 
 Hello! I am a postgraduate student in the *Computational Applied Mathematics* programme at the University of Edinburgh, having also completed an undergraduate mathematics degree here between 2021 and 2025.
 
