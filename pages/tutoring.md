@@ -1,5 +1,6 @@
 ---
 title: Tutoring Resources
+feature_image: "/assets/images/slovenija_2.jpg"
 aside: true
 aside_search: true
 ---

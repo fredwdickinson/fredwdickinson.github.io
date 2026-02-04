@@ -1,5 +1,6 @@
 ---
 title: Contact
+feature_image: "/assets/images/slovenija_2.jpg"
 aside: true
 ---
 

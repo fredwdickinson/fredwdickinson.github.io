@@ -18,8 +18,8 @@ $linkColour: #CF6A04 !default;
 
 .aside {
   @include breakpoint(break-1) {
-    max-width: 35%;
-    margin-left: 8%;
+    max-width: 30%;
+    margin-left: 13%;
     opacity: 1;
     // Previously 'sticky', now scrolls with page.
     .section{
