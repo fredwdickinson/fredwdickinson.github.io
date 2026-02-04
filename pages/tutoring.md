@@ -14,16 +14,16 @@ Please contact me for questions, marking, corrections, etc.
 #### Exercise Booklets
 
 1. [A set of ten mock-exam questions for GCSE students.](/assets/files/tutoring/gcse/worksheets/gcse_exam_1.pdf)
-2. [A set of ten mock exam questions for GCSE students.](/assets/files/tutoring/gcse/worksheets/gcse_exam_2.pdf)
-3. [A small set of exercises on solving quadratic equations.](/assets/files/tutoring/gcse/worksheets/solving_quadratics.pdf)
+1. [A set of ten mock exam questions for GCSE students.](/assets/files/tutoring/gcse/worksheets/gcse_exam_2.pdf)
+1. [A small set of exercises on solving quadratic equations.](/assets/files/tutoring/gcse/worksheets/solving_quadratics.pdf)
 
 #### Notes
 
 1. [An introduction to linear and quadratic equations.](/assets/files/tutoring/gcse/intro_to_linear_quadratic_eqs.pdf)
-2. [An introduction to completing the square.](/assets/files/tutoring/gcse/intro_to_completing_the_square.pdf)
-3. [Where does the quadratic formula come from?](/assets/files/tutoring/gcse/completing_the_square_and_quadratic_formula.pdf)
-4. [Types of averages.](/assets/files/tutoring/types_of_average.pdf)
-5. [On the area of a triangle being $1/2 ab \sin(C)$.](/assets/files/tutoring/gcse/half-absinC.pdf)
+1. [An introduction to completing the square.](/assets/files/tutoring/gcse/intro_to_completing_the_square.pdf)
+1. [Where does the quadratic formula come from?](/assets/files/tutoring/gcse/completing_the_square_and_quadratic_formula.pdf)
+1. [Types of averages.](/assets/files/tutoring/types_of_average.pdf)
+1. [On the area of a triangle being $1/2 ab \sin(C)$.](/assets/files/tutoring/gcse/half-absinC.pdf)
 
 --- 
 
@@ -37,8 +37,9 @@ Please contact me for questions, marking, corrections, etc.
 #### Notes
 
 1. [Types of averages.](/assets/files/tutoring/types_of_average.pdf)
-2. [Variance and standard deivation.](/assets/files/tutoring/a_level/variance_and_standard_deviation.pdf)
-3. [Fundamentals in probability (1).](/assets/files/tutoring/a_level/probability_fundamentals_1.pdf)
-4. [Fundamentals in probability (2).](/assets/files/tutoring/a_level/probability_fundamentals_2.pdf)
-5. [The discriminant.](/assets/files/tutoring/a_level/the_discriminant.pdf)
-6. [Hidden quadratics.](/assets/files/tutoring/a_level/hidden_quadratics.pdf)
+1. [Variance and standard deivation.](/assets/files/tutoring/a_level/variance_and_standard_deviation.pdf)
+1. [Fundamentals in probability (1).](/assets/files/tutoring/a_level/probability_fundamentals_1.pdf)
+1. [Fundamentals in probability (2).](/assets/files/tutoring/a_level/probability_fundamentals_2.pdf)
+1. [The discriminant.](/assets/files/tutoring/a_level/the_discriminant.pdf)
+1. [Hidden quadratics.](/assets/files/tutoring/a_level/hidden_quadratics.pdf)
+1. [Sine, cosine, and the unit circle.](/assets/files/tutoring/a_level/unit_circle_sinecosine.pdf)
