@@ -14,12 +14,10 @@ aside_content: |
   </figure>
 ---
 
-### Edinburgh University Table Tennis Club
+Thank you to everybody in the Edinburgh University table tennis club and the wider Edinburgh and Lothians table tennis league (ELTTL): each and every committee member, teammate, opponent, or otherwise! See some of my favourite photos on the sidebar.
 
-**Intramural table tennis** was a major focus of mine when on committee. It's first season was in 2023-24, more officially starting in 2024-25. [This is my most recent handbook](/assets/files/sport/EUTTC-IMS-Handbook.pdf) with corresponding [word document](/assets/files/sport/EUTTC-IMS-Handbook.docx) which work well as a starting point.
+### Helpful Resources
+**EUTTC**. The intramural table tennis league was a major focus on mine when on committee. It's first season was in 2023-24, more officially starting in 2024-25. [This is my most recent handbook](/assets/files/sport/EUTTC-IMS-Handbook.pdf) with corresponding [word document](/assets/files/sport/EUTTC-IMS-Handbook.docx) which work well as a starting point.
 
 
-### General UoE Sport
-**Racketlon** is a sport comprised of tennis, table tennis, badminton, and squash. Each year a few committee members from each sport come together to host a racketlon charity event.
-
-I've helped run the event in 2024, 2025, and 2026. [Here is one template](/assets/files/sport/racketlon_blank.xlsx) that can be used on the day. Additionally, [this repository](https://github.com/fredwdickinson/racketlon-team-creater/tree/main) has small pieces of Python code that can generate racketlon teams with skill and gender balancing.
+**Racketlon** is a sport comprised of tennis, table tennis, badminton, and squash. Each year a few committee members from each sport come together to host a racketlon charity event. [Here is one scoring template](/assets/files/sport/racketlon_blank.xlsx) that can be modified for use on the day. [This repository](https://github.com/fredwdickinson/racketlon-team-creater/tree/main) has small pieces of Python code that can generate racketlon teams with ability and gender balancing.

@@ -7,7 +7,7 @@ aside_search: true
 
 **Mathematics tutoring.** I have been consistently tutoring GCSE and A-level mathematics since 2019, also with experience in younger people's maths education (ages 7-11), AP statistics, and first year university content.
 
-Please contact me for questions, marking, corrections, etc.
+This page is slowly being filled with resources that have been made over the years. Please contact me for questions, marking, corrections, etc.
 
 ### GCSE Material
 
@@ -31,15 +31,17 @@ Please contact me for questions, marking, corrections, etc.
 
 #### Exercise Booklets
 
-1. [A small set of exercises on calculating the derivative.](/assets/files/tutoring/a_level/worksheets/as_derivative_calculation_1.pdf)
+1. [Differentiation problem sheet (1).](/assets/files/tutoring/a_level/worksheets/as_differentiation_1.pdf)
+1. [Differentiation with exponentials and logarithms.](/assets/files/tutoring/a_level/worksheets/as_differentiation_exp-log.pdf)
 
 
 #### Notes
 
 1. [Types of averages.](/assets/files/tutoring/types_of_average.pdf)
-1. [Variance and standard deivation.](/assets/files/tutoring/a_level/variance_and_standard_deviation.pdf)
+1. [Variance and standard deviation.](/assets/files/tutoring/a_level/variance_and_standard_deviation.pdf)
 1. [Fundamentals in probability (1).](/assets/files/tutoring/a_level/probability_fundamentals_1.pdf)
 1. [Fundamentals in probability (2).](/assets/files/tutoring/a_level/probability_fundamentals_2.pdf)
 1. [The discriminant.](/assets/files/tutoring/a_level/the_discriminant.pdf)
 1. [Hidden quadratics.](/assets/files/tutoring/a_level/hidden_quadratics.pdf)
 1. [Sine, cosine, and the unit circle.](/assets/files/tutoring/a_level/unit_circle_sinecosine.pdf)
+1. [The standard normal distribution.](/assets/files/tutoring/a_level/standard_normal_dist.pdf)
