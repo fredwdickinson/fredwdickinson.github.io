@@ -45,3 +45,4 @@ This page is slowly being filled with resources that have been made over the yea
 1. [Hidden quadratics.](/assets/files/tutoring/a_level/hidden_quadratics.pdf)
 1. [Sine, cosine, and the unit circle.](/assets/files/tutoring/a_level/unit_circle_sinecosine.pdf)
 1. [The standard normal distribution.](/assets/files/tutoring/a_level/standard_normal_dist.pdf)
+1. [Euclid's proof that there are infinitely many prime numbers.](/assets/files/tutoring/a_level/euclid_infinitude_of_primes.pdf)
