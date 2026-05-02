@@ -5,10 +5,6 @@ aside: true
 aside_content: |
   <br>
   <figure>
-    <img src="/assets/images/sports-ball.jpeg" alt="Sports Ball 23-24.">
-    <figcaption>EUTTC Sports Ball, January 2024.</figcaption>
-  </figure>
-  <figure>
     <img src="/assets/images/2324div3winners-crop.jpeg" alt="Division 3 winners.">
     <figcaption>Winning ELTTL's division 3, May 2024.</figcaption>
   </figure>
