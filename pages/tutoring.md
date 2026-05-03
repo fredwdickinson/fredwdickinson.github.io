@@ -49,3 +49,4 @@ This page is slowly being filled with resources that have been made over the yea
 1. [Sine, cosine, and the unit circle.](/assets/files/tutoring/a_level/unit_circle_sinecosine.pdf)
 1. [Some advice for remembering the trig identities.](/assets/files/tutoring/a_level/advice_for_trig_identities.pdf)
 1. [Euclid's proof that there are infinitely many prime numbers.](/assets/files/tutoring/a_level/euclid_infinitude_of_primes.pdf)
+1. [Discussion on some points in mechanics.](/assets/files/tutoring/a_level/a-level-mechanics-discussion.pdf)
