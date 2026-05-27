@@ -16,6 +16,7 @@ This page is slowly being filled with resources that have been made over the yea
 1. [A set of ten mock-exam questions for GCSE students.](/assets/files/tutoring/gcse/worksheets/gcse_exam_1.pdf)
 1. [A set of ten mock exam questions for GCSE students.](/assets/files/tutoring/gcse/worksheets/gcse_exam_2.pdf)
 1. [A small set of exercises on solving quadratic equations.](/assets/files/tutoring/gcse/worksheets/solving_quadratics.pdf)
+1. [A bigger set of fifteen paper 2 problems](/assets/files/tutoring/gcse/worksheets/gcse_paper2_problems_A.pdf) also with [hints and solutions.](/assets/files/tutoring/gcse/worksheets/SOL_gcse_paper2_problems_A.pdf)
 
 #### Notes
 
