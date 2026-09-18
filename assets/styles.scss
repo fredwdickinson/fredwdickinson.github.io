@@ -10,18 +10,22 @@ $linkColour: #CF6A04 !default;
 
 .content {
   @include breakpoint(break-1) {
-    // Add to 100 with the aside styling rules.
-    width: 57%;
+    width: 100%;
+  }
+  .has-aside & {
+    @include breakpoint(break-1) {
+      width: 72%;
+    }
   }
   font-size: 18px;
 }
 
 .aside {
   @include breakpoint(break-1) {
-    max-width: 30%;
-    margin-left: 13%;
+    max-width: 25%;
+    margin-left: 3%;
     opacity: 1;
-    // Previously 'sticky', now scrolls with page.
+    // "sticky" is the other option.
     .section{
         position: static;
         top: 0;
@@ -31,13 +35,44 @@ $linkColour: #CF6A04 !default;
 }
 
 .aside img {
-  width: 120%; 
+  width: 100%; 
   max-width: none;
 }
 
 .container {
-  margin-left: 8%;
+  max-width: 1500px;     
+  margin-left: auto;   
+  margin-right: auto;
+  padding-left: 0%;   
+  padding-right: 2%;
 }
 
+.content ol,
+.content ul {
+  padding-left: 1.6em;
+}
 
+.form--search {
+  position: relative;
+}
+
+.list--results {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  margin: 0;
+  padding: 0.5em 1em;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+  max-height: 60vh;
+  overflow-y: auto;
+}
+
+.list--results:empty {
+  display: none;
+}
 

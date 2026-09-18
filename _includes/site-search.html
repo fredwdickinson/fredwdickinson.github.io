@@ -10,50 +10,47 @@
 </div>
 
 <script>
-  (function () {
+  document.addEventListener('DOMContentLoaded', function () {
     const field = document.querySelector('#search');
     const resultsList = document.querySelector('#list');
+    resultsList.innerHTML = '';
     const content = document.querySelector('.content');
-    console.log(content);
 
-    // Extract list items only (not introduction, for example)
-    const list_items = Array.from(content.querySelectorAll('li a'));
-    console.log(list_items);
+    // Collect links, excluding the results list itself.
+    const list_items = Array.from(content.querySelectorAll('li a'))
+      .filter(link => !resultsList.contains(link));
+
+    const MAX_RESULTS = 3;
 
     field.addEventListener('input', () => {
-      // Search term.
       const query = field.value.trim().toLowerCase();
+      resultsList.innerHTML = '';
       if (!query) return;
 
-      resultsList.innerHTML = '';
-      let count = 0;
+      const matches = list_items.filter(link =>
+        link.textContent.toLowerCase().includes(query)
+      );
 
-      list_items.forEach(link => {
-        // Extract the text and the hyperlink from the list items.
-        const text = link.textContent;
-        const href = link.getAttribute('href');
-        console.log(href);
+      if (matches.length === 0) {
+        resultsList.innerHTML = '<li>No matches found.</li>';
+        return;
+      }
 
-        // Relying on .includes() is good enough.
-        if (text.toLowerCase().includes(query)) {
-          // Create new list item with the same hyperlink.
-          const li = document.createElement('li');
-          const a = document.createElement('a');
+      matches.slice(0, MAX_RESULTS).forEach(link => {
+        const li = document.createElement('li');
+        const a = document.createElement('a');
 
-          a.href = href;
-          a.innerHTML = text.replace(
-            new RegExp(`(${query})`, 'gi'),
-            '$1'
-          );
+        a.href = link.getAttribute('href');
+        a.textContent = link.textContent;
 
-          li.appendChild(a);
-          resultsList.appendChild(li);
-          count += 1;
-        }
+        li.appendChild(a);
+        resultsList.appendChild(li);
       });
 
-      if (count === 0) {
-        resultsList.innerHTML = '<li>No matches found.</li>';
+      if (matches.length > MAX_RESULTS) {
+        const li = document.createElement('li');
+        li.textContent = `…and ${matches.length - MAX_RESULTS} more.`;
+        resultsList.appendChild(li);
       }
     });
 
@@ -61,7 +58,7 @@
       // Prevents enter from submitting a search and reloading the page.
       if (e.key === 'Enter') e.preventDefault();
     });
-  })();
+  });
 </script>
 
 <noscript>Please enable JavaScript to use the search form.</noscript>

@@ -7,7 +7,7 @@ aside_content: |
   <br>
   <figure>
     <img src="/assets/images/mt-vogel.jpeg" alt="Climbing Mt Vogel">
-    <figcaption>Climbing Mt Vogel (Slovenia), June 2025.</figcaption>
+    <figcaption>Mt Vogel (Slovenia), June 2025.</figcaption>
   </figure>
   <figure>
     <img src="/assets/images/kiloran-bay.jpeg" alt="Kiloran Bay">

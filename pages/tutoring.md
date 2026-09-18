@@ -1,53 +1,127 @@
 ---
 title: Tutoring Resources
 feature_image: "/assets/images/slovenija_2.jpg"
-aside: true
 aside_search: true
 ---
+
+<div style="display: flex; gap: 2rem; align-items: start;">
+<div markdown="1">
 
 **Mathematics tutoring.** I have been consistently tutoring GCSE and A-level mathematics since 2019, also with experience in younger people's maths education (ages 7-11), AP statistics, and first year university content.
 
 This page is slowly being filled with resources that have been made over the years. Please contact me for questions, marking, corrections, etc.
 
-### GCSE Material
+</div>
+<div style="min-width: 325px; ">
+  {% include site-search.html %}
+</div>
+</div>
 
-#### Exercise Booklets
+---
 
-1. [A set of ten mock-exam questions for GCSE students.](/assets/files/tutoring/gcse/worksheets/gcse_exam_1.pdf)
-1. [A set of ten mock exam questions for GCSE students.](/assets/files/tutoring/gcse/worksheets/gcse_exam_2.pdf)
-1. [A small set of exercises on solving quadratic equations.](/assets/files/tutoring/gcse/worksheets/solving_quadratics.pdf)
-1. [A bigger set of fifteen paper 2 problems](/assets/files/tutoring/gcse/worksheets/gcse_paper2_problems_A.pdf) also with [hints and solutions.](/assets/files/tutoring/gcse/worksheets/SOL_gcse_paper2_problems_A.pdf)
+<style>
+.resources-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 2rem;
+  align-items: start;
+}
+@media (max-width: 700px) {
+  .resources-grid {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
 
-#### Notes
+<!-- --------------------------- -->
+<!-- --------------------------- -->
+<!-- --------------------------- -->
 
-1. [An introduction to linear and quadratic equations.](/assets/files/tutoring/gcse/intro_to_linear_quadratic_eqs.pdf)
-1. [An introduction to completing the square.](/assets/files/tutoring/gcse/intro_to_completing_the_square.pdf)
+## GCSE Material
+
+<div class="resources-grid">
+<div markdown="1">
+
+#### Algebra
+
+1. [Linear and quadratic equations.](/assets/files/tutoring/gcse/intro_to_linear_quadratic_eqs.pdf)
+1. [Introduction to completing the square.](/assets/files/tutoring/gcse/intro_to_completing_the_square.pdf)
 1. [Where does the quadratic formula come from?](/assets/files/tutoring/gcse/completing_the_square_and_quadratic_formula.pdf)
+
+</div>
+<div markdown="1">
+
+#### Statistics
+
 1. [Types of averages.](/assets/files/tutoring/types_of_average.pdf)
+
+#### Trigonometry
+
 1. [On the area of a triangle being $1/2 ab \sin(C)$.](/assets/files/tutoring/gcse/half-absinC.pdf)
 
---- 
+</div>
+<div markdown="1">
 
-### A-Level Material
+#### Worksheets
 
-#### Exercise Booklets
+1. [Solving quadratic equations.](/assets/files/tutoring/gcse/worksheets/solving_quadratics.pdf)
+1. [Fifteen paper 2 problems](/assets/files/tutoring/gcse/worksheets/gcse_paper2_problems_A.pdf) also with [hints and solutions.](/assets/files/tutoring/gcse/worksheets/SOL_gcse_paper2_problems_A.pdf)
+1. [Ten mock exam questions (1).](/assets/files/tutoring/gcse/worksheets/gcse_exam_1.pdf)
+1. [Ten mock exam questions (2).](/assets/files/tutoring/gcse/worksheets/gcse_exam_2.pdf)
 
-1. [Differentiation problem sheet (1).](/assets/files/tutoring/a_level/worksheets/as_differentiation_1.pdf)
-1. [Differentiation with exponentials and logarithms.](/assets/files/tutoring/a_level/worksheets/as_differentiation_exp-log.pdf)
+</div>
+</div>
 
+<!-- --------------------------- -->
+<!-- --------------------------- -->
+<!-- --------------------------- -->
+<!-- --------------------------- -->
+<!-- --------------------------- -->
+<!-- --------------------------- -->
 
-#### Notes
+---
+
+## A-Level Material
+
+<div class="resources-grid">
+<div markdown="1">
+
+#### Pure Mathematics
+
+1. [On the discriminant.](/assets/files/tutoring/a_level/the_discriminant.pdf)
+1. [What are these "hidden quadratics"?](/assets/files/tutoring/a_level/hidden_quadratics.pdf)
+1. [Euclid's proof that there are infinitely many prime numbers.](/assets/files/tutoring/a_level/euclid_infinitude_of_primes.pdf)
+
+#### Trigonometry
+
+1. [Sine, cosine, and the unit circle.](/assets/files/tutoring/a_level/unit_circle_sinecosine.pdf)
+1. [Remembering the trig identities.](/assets/files/tutoring/a_level/advice_for_trig_identities.pdf)
+
+</div>
+<div markdown="1">
+
+#### Statistics & Probability
 
 1. [Types of averages.](/assets/files/tutoring/types_of_average.pdf)
 1. [Variance and standard deviation.](/assets/files/tutoring/a_level/variance_and_standard_deviation.pdf)
 1. [The standard normal distribution.](/assets/files/tutoring/a_level/standard_normal_dist.pdf)
 1. [An introduction to hypothesis testing.](/assets/files/tutoring/a_level/intro_to_hypothesis_testing.pdf)
-1. [On the difference between test statistics and $p$-values.](/assets/files/tutoring/a_level/test_statistics_p_values.pdf)
+1. [Test statistics vs. $p$-values.](/assets/files/tutoring/a_level/test_statistics_p_values.pdf)
 1. [Fundamentals in probability (1).](/assets/files/tutoring/a_level/probability_fundamentals_1.pdf)
 1. [Fundamentals in probability (2).](/assets/files/tutoring/a_level/probability_fundamentals_2.pdf)
-1. [On the discriminant.](/assets/files/tutoring/a_level/the_discriminant.pdf)
-1. [What are these "hidden quadratics"?](/assets/files/tutoring/a_level/hidden_quadratics.pdf)
-1. [Sine, cosine, and the unit circle.](/assets/files/tutoring/a_level/unit_circle_sinecosine.pdf)
-1. [Some advice for remembering the trig identities.](/assets/files/tutoring/a_level/advice_for_trig_identities.pdf)
-1. [Euclid's proof that there are infinitely many prime numbers.](/assets/files/tutoring/a_level/euclid_infinitude_of_primes.pdf)
-1. [Discussion on some points in mechanics.](/assets/files/tutoring/a_level/a-level-mechanics-discussion.pdf)
+
+#### Mechanics
+
+1. [Discussion on on some mechanics.](/assets/files/tutoring/a_level/a-level-mechanics-discussion.pdf)
+
+</div>
+<div markdown="1">
+
+#### Worksheets
+
+1. [Mixed differentiation problem sheet.](/assets/files/tutoring/a_level/worksheets/as_differentiation_1.pdf)
+1. [Differentiation with exponentials and logarithms.](/assets/files/tutoring/a_level/worksheets/as_differentiation_exp-log.pdf)
+1. [Differentiation with the product rule.](/assets/files/tutoring/a_level/worksheets/as_product_rule_ws.pdf)
+
+</div>
+</div>

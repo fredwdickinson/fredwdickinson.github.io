@@ -42,8 +42,6 @@ navigation_header:
     url: /
   - title: Tutoring
     url: /pages/tutoring/
-  - title: Maths
-    url: /pages/maths/
   - title: Sport
     url: /pages/sport/
   - title: Contact
