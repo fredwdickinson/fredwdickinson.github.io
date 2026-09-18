@@ -96,6 +96,7 @@ This page is slowly being filled with resources that have been made over the yea
 
 1. [Sine, cosine, and the unit circle.](/assets/files/tutoring/a_level/unit_circle_sinecosine.pdf)
 1. [Remembering the trig identities.](/assets/files/tutoring/a_level/advice_for_trig_identities.pdf)
+1. [Differentiating $\csc, \sec$, and $\cot$.](/assets/files/tutoring/a_level/differentiating_csc_sec_cot.pdf)
 
 </div>
 <div markdown="1">
@@ -112,7 +113,7 @@ This page is slowly being filled with resources that have been made over the yea
 
 #### Mechanics
 
-1. [Discussion on on some mechanics.](/assets/files/tutoring/a_level/a-level-mechanics-discussion.pdf)
+1. [Discussion on some mechanics.](/assets/files/tutoring/a_level/a-level-mechanics-discussion.pdf)
 
 </div>
 <div markdown="1">
