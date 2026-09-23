@@ -97,6 +97,7 @@ This page is slowly being filled with resources that have been made over the yea
 1. [Sine, cosine, and the unit circle.](/assets/files/tutoring/a_level/unit_circle_sinecosine.pdf)
 1. [Remembering the trig identities.](/assets/files/tutoring/a_level/advice_for_trig_identities.pdf)
 1. [Differentiating $\csc, \sec$, and $\cot$.](/assets/files/tutoring/a_level/differentiating_csc_sec_cot.pdf)
+1. [The trigonometric $R$-method.](/assets/files/tutoring/a_level/trigonometric_R_method.pdf)
 
 </div>
 <div markdown="1">
