@@ -52,6 +52,15 @@ $linkColour: #CF6A04 !default;
   padding-left: 1.6em;
 }
 
+.typeset ol li ol,
+.typeset ol li ul,
+.typeset ul li ol,
+.typeset ul li ul {
+  padding-top: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
 .form--search {
   position: relative;
 }

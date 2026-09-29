@@ -65,7 +65,8 @@ This page is slowly being filled with resources that have been made over the yea
 #### Worksheets
 
 1. [Solving quadratic equations.](/assets/files/tutoring/gcse/worksheets/solving_quadratics.pdf)
-1. [Fifteen paper 2 problems](/assets/files/tutoring/gcse/worksheets/gcse_paper2_problems_A.pdf) also with [hints and solutions.](/assets/files/tutoring/gcse/worksheets/SOL_gcse_paper2_problems_A.pdf)
+1. [Fifteen paper 2 problems.](/assets/files/tutoring/gcse/worksheets/gcse_paper2_problems_A.pdf) 
+   1. [... with hints and solutions.](/assets/files/tutoring/gcse/worksheets/SOL_gcse_paper2_problems_A.pdf)
 1. [Ten mock exam questions (1).](/assets/files/tutoring/gcse/worksheets/gcse_exam_1.pdf)
 1. [Ten mock exam questions (2).](/assets/files/tutoring/gcse/worksheets/gcse_exam_2.pdf)
 
@@ -96,7 +97,7 @@ This page is slowly being filled with resources that have been made over the yea
 
 1. [Sine, cosine, and the unit circle.](/assets/files/tutoring/a_level/unit_circle_sinecosine.pdf)
 1. [Remembering the trig identities.](/assets/files/tutoring/a_level/advice_for_trig_identities.pdf)
-1. [Differentiating $\csc, \sec$, and $\cot$.](/assets/files/tutoring/a_level/differentiating_csc_sec_cot.pdf)
+1. [Differentiating csc, sec, and cot.](/assets/files/tutoring/a_level/differentiating_csc_sec_cot.pdf)
 1. [The trigonometric $R$-method.](/assets/files/tutoring/a_level/trigonometric_R_method.pdf)
 
 </div>
@@ -124,6 +125,8 @@ This page is slowly being filled with resources that have been made over the yea
 1. [Mixed differentiation problem sheet.](/assets/files/tutoring/a_level/worksheets/as_differentiation_1.pdf)
 1. [Differentiation with exponentials and logarithms.](/assets/files/tutoring/a_level/worksheets/as_differentiation_exp-log.pdf)
 1. [Differentiation with the product rule.](/assets/files/tutoring/a_level/worksheets/as_product_rule_ws.pdf)
+1. [Mixed trigonometric integrals.](/assets/files/tutoring/a_level/worksheets/trigonometric_integrals.pdf) 
+   1. [... with hints and solutions.](/assets/files/tutoring/a_level/worksheets/trigonometric_integrals_hints_solutions.pdf)
 
 </div>
 </div>
