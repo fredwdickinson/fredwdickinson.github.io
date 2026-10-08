@@ -40,6 +40,8 @@ email: "fredsterdickinson@gmail.com"
 navigation_header:
   - title: Home
     url: /
+  - title: Projects 
+    url: /pages/projects/
   - title: Tutoring
     url: /pages/tutoring/
   - title: Sport
