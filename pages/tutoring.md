@@ -92,6 +92,7 @@ This page is slowly being filled with resources that have been made over the yea
 1. [On the discriminant.](/assets/files/tutoring/a_level/the_discriminant.pdf)
 1. [What are these "hidden quadratics"?](/assets/files/tutoring/a_level/hidden_quadratics.pdf)
 1. [Euclid's proof that there are infinitely many prime numbers.](/assets/files/tutoring/a_level/euclid_infinitude_of_primes.pdf)
+1. [That $\sqrt{p}$ is irrational for all primes $p$.](/assets/files/tutoring/a_level/root_p_is_irrational.pdf)
 
 #### Trigonometry
 
